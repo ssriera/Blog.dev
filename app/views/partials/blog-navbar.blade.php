@@ -1,18 +1,18 @@
 <div class="container">
       <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
         <div class="navbar-header">
-         <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1"> <span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button> <a class="navbar-brand" href="#">The Homespun Blog</a> 
+         <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1"> <span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button> <a class="navbar-brand glyphicon glyphicon-cloud" href="#"> The Homespun Blog</a> 
         </div>
         <ul class="nav navbar-nav navbar-right">
           <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav">
               @if (Auth::user())
                 <li>
-                <a href="/logout">Logout</a>
+                <a class="glyphicon glyphicon-remove-sign" href="/logout"> Logout</a>
               </li>
               @else
                 <li>
-                  <a href="/login">Login</a>
+                  <a class="glyphicon glyphicon-ok-sign" href="/login"> Login</a>
                 </li>
               @endif
             </ul>
@@ -31,10 +31,10 @@
           <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav">
               <li>
-                <a href="/posts/index">Posts</a>
+                <a class="glyphicon glyphicon-list-alt" href="/posts"> Posts</a>
               </li>
               <li>
-                <a href="/posts/create">Create Post</a>
+                <a class="glyphicon glyphicon-pencil" href="/posts/create"> Create Post</a>
               </li>
             </ul>
           </div>
