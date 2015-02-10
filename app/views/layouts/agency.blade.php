@@ -11,6 +11,24 @@
 
     <title>Stephanie Riera</title>
 
+        <!-- jQuery -->
+    <script src="theme/js/jquery.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="theme/js/bootstrap.min.js"></script>
+
+    <!-- Plugin JavaScript -->
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script>
+    <script src="theme/js/classie.js"></script>
+    <script src="theme/js/cbpAnimatedHeader.js"></script>
+
+    <!-- Contact Form JavaScript -->
+    <script src="theme/js/jqBootstrapValidation.js"></script>
+    <script src="theme/js/contact_me.js"></script>
+
+    <!-- Custom Theme JavaScript -->
+    <script src="theme/js/agency.js"></script>
+
     <!-- Bootstrap Core CSS -->
     <link href="theme/css/bootstrap.min.css" rel="stylesheet">
 
@@ -118,7 +136,7 @@
                         <i class="fa fa-html5 fa-stack-1x fa-inverse"></i>
                     </span>
                     <h4 class="service-heading">HTML5</h4>
-                    <p class="text-muted">Experienced proficiency.</p>
+                    <p class="text-muted">Experienced proficiency</p>
                 </div>
                 <div class="col-md-2">
                     <span class="fa-stack fa-4x">
@@ -126,7 +144,7 @@
                         <i class="fa fa-css3  fa-stack-1x fa-inverse"></i>
                     </span>
                     <h4 class="service-heading">CSS</h4>
-                    <p class="text-muted">Experienced proficiency.</p>
+                    <p class="text-muted">Experienced proficiency</p>
                 </div>
                 <div class="col-md-2">
                     <span class="fa-stack fa-4x">
@@ -142,7 +160,7 @@
                         <i class="fa fa-terminal fa-stack-1x fa-inverse"></i>
                     </span>
                     <h4 class="service-heading">PHP</h4>
-                    <p class="text-muted">Experienced proficiency.</p>
+                    <p class="text-muted">Experienced proficiency</p>
                 </div>
                 <div class="col-md-2">
                     <span class="fa-stack fa-4x">
@@ -150,7 +168,7 @@
                         <i class="fa fa-database  fa-stack-1x fa-inverse"></i>
                     </span>
                     <h4 class="service-heading">mySQL</h4>
-                    <p class="text-muted">Proficient.</p>
+                    <p class="text-muted">Proficient</p>
                 </div>
                 <div class="col-md-2">
                     <span class="fa-stack fa-4x">
@@ -181,7 +199,7 @@
                                 <i class="fa fa-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="theme/img/portfolio/roundicons.png" class="img-responsive" alt="">
+                        <img src="theme/img/portfolio/nat-park.png" class="img-responsive" alt="">
                     </a>
                     <div class="portfolio-caption">
                         <h4>National Parks</h4>
@@ -195,7 +213,7 @@
                                 <i class="fa fa-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="theme/img/portfolio/startup-framework.png" class="img-responsive" alt="">
+                        <img src="theme/img/portfolio/whackamole.png" class="img-responsive" alt="">
                     </a>
                     <div class="portfolio-caption">
                         <h4>Whack-a-Mole</h4>
@@ -223,7 +241,7 @@
                                 <i class="fa fa-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="theme/img/portfolio/golden.png" class="img-responsive" alt="">
+                        <img src="theme/img/portfolio/homespun-blog.png" class="img-responsive" alt="">
                     </a>
                     <div class="portfolio-caption">
                         <h4>Blog</h4>
@@ -312,7 +330,7 @@
                                     <h4 class="subheading">The Transition</h4>
                                 </div>
                                 <div class="timeline-body">
-                                    <p class="text-muted">After working for half a year at a laboratory where I felt understimulated (and underpaid) I decided this was ultimately not for me. I quit and after some difficult moments I realized I wanted to switch careers. I decided becoming a developer would bring the most opportunities and the possibility to create my own.</p>
+                                    <p class="text-muted">After working for half a year at a laboratory where I felt understimulated (and underpaid) I decided this was ultimately not for me. I quit and set out to switch careers. I decided becoming a developer would bring the most opportunities and the possibility to create my own.</p>
                                 </div>
                             </div>
                         </li>
@@ -323,10 +341,10 @@
                             <div class="timeline-panel">
                                 <div class="timeline-heading">
                                     <h4>February 2015</h4>
-                                    <h4 class="subheading">Rise from the Ashes</h4>
+                                    <h4 class="subheading">Start of a New Era</h4>
                                 </div>
                                 <div class="timeline-body">
-                                    <p class="text-muted">After 3 months of sleep deprivation, heart break, headaches and tired eyes, I finished a programming bootcamp at Codeup. Yes it was like learning Mandarin but like I always say, if there's a will, there's a way.</p>
+                                    <p class="text-muted">After 3 months of sleep deprivation, headaches and tired eyes, I finished a programming bootcamp at Codeup. Yes it was like learning Mandarin but like I always say, if there's a will, there's a way.</p>
                                 </div>
                             </div>
                         </li>
@@ -503,10 +521,10 @@
                
                 <div class="col-md-4">
                     <ul class="list-inline quicklinks">
-                        <li><a href="#">Privacy Policy</a>
+                       <!--  <li><a href="#">Privacy Policy</a>
                         </li>
                         <li><a href="#">Terms of Use</a>
-                        </li>
+                        </li> -->
                     </ul>
                 </div>
             </div>
@@ -683,23 +701,7 @@
         </div>
     </div>
 
-    <!-- jQuery -->
-    <script src="theme/js/jquery.js"></script>
 
-    <!-- Bootstrap Core JavaScript -->
-    <script src="theme/js/bootstrap.min.js"></script>
-
-    <!-- Plugin JavaScript -->
-    <script src="http://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script>
-    <script src="theme/js/classie.js"></script>
-    <script src="theme/js/cbpAnimatedHeader.js"></script>
-
-    <!-- Contact Form JavaScript -->
-    <script src="theme/js/jqBootstrapValidation.js"></script>
-    <script src="theme/js/contact_me.js"></script>
-
-    <!-- Custom Theme JavaScript -->
-    <script src="theme/js/agency.js"></script>
 
 </body>
 
