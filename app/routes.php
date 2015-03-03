@@ -35,9 +35,6 @@ Route::get('/resume', 'HomeController@showResume');
 
 Route::get('/portfolio', 'HomeController@showPortfolio');
 
-//Old Home Page
-// Route::get('/index', 'HomeController@showIndex');
-
 //Whack a Mole Game
 Route::get('/game', 'HomeController@showGame');
 

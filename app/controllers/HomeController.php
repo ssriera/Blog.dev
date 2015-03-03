@@ -25,7 +25,15 @@ class HomeController extends BaseController {
 		return View::make('login');
 	}
 	public function showResume() {
-		return View::make('resume');
+		
+		$file_path = public_path() .'/Riera-Resume.pdf';
+	    if (file_exists($file_path))
+	    {
+	        // Send Download
+	        return Response::download($file_path, 'Riera-Resume.pdf', [
+	            'Content-Length: '. filesize($file_path)
+	        ]);
+	    }
 	}
 
 	public function showPortfolio() {
@@ -36,9 +44,6 @@ class HomeController extends BaseController {
 		return View::make('game');
 	}
 
-	// public function showIndex() {
-	// 	return View::make('index');
-	// }
 
 	public function showParks() {
 		return View::make('parks');
