@@ -41,6 +41,8 @@ Route::get('/game', 'HomeController@showGame');
 //National Parks
 Route::get('/parks', 'HomeController@showParks');
 
+//HomespunBlog
+Route::get('/blog', 'HomeController@showBlog');
 
 
 //Posts Resource
