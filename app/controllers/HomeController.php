@@ -26,7 +26,7 @@ class HomeController extends BaseController {
 	}
 	public function showResume() {
 		
-		$file_path = public_path() .'/Riera-Resume.pdf';
+		$file_path = public_path() .'/Riera - Resume.pdf';
 	    if (file_exists($file_path))
 	    {
 	        // Send Download
