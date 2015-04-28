@@ -30,7 +30,7 @@ class HomeController extends BaseController {
 	    if (file_exists($file_path))
 	    {
 	        // Send Download
-	        return Response::download($file_path, 'Riera-Resume.pdf', [
+	        return Response::download($file_path, 'Riera - Resume.pdf', [
 	            'Content-Length: '. filesize($file_path)
 	        ]);
 	    }
