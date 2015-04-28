@@ -42,8 +42,10 @@ Route::get('/game', 'HomeController@showGame');
 Route::get('/parks', 'HomeController@showParks');
 
 //HomespunBlog
-Route::get('/blog', 'HomeController@showBlog');
+// Route::get('/blog', 'HomeController@showBlog');
 
+//Bloguettes
+Route::get('/bloguettes', 'HomeController@showBlog');
 
 //Posts Resource
 Route::resource('posts', 'PostsController');

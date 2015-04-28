@@ -44,12 +44,16 @@ class HomeController extends BaseController {
 		return View::make('game');
 	}
 
-	public function showBlog() {
-		return View::make('blog');
-	}
+	// public function showBlog() {
+	// 	return View::make('blog');
+	// }
 	
 	public function showParks() {
 		return View::make('parks');
+	}
+
+	public function showBlog() {
+		return View::make('bloguettes');
 	}
 
 	public function doLogin() {
