@@ -13,7 +13,7 @@ body {
 	font-weight:300;
 }
 body > header {
-	background-image: url('images/default');
+	background-image: url('/images/default');
 	background-position:center center;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -71,7 +71,7 @@ img {
 	margin:0 auto;
 }
 .testimonial {
-	background-image: url('images/ceo1.jpeg');
+	background-image: url('/images/ceo1.jpeg');
 	background-position:center 10%;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
