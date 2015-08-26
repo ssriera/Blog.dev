@@ -23,7 +23,7 @@
         <header>
 
             <div class="container">
-                <img id="logo" src="img/branding_footer.png">
+                <img id="logo" src="images/branding_footer.png">
                 <h1 class="align-left">Upload all the things</h1>
                 <p>whenever, wherever, in the blink of an eye</p>
                 <br>
@@ -40,22 +40,22 @@
                         <h2 class="text-center">From All the Places</h2>
                     </div>
                     <div class="col-sm-1">
-                        <img src="img/github.png">
+                        <img src="images/github.png">
                     </div>
                     <div class="col-sm-1">
-                        <img src="img/dropbox.png">
+                        <img src="images/dropbox.png">
                     </div>
                     <div class="col-sm-1">
-                        <img src="img/instagram.png">
+                        <img src="images/instagram.png">
                     </div>
                     <div class="col-sm-1">
-                        <img src="img/evernote.png">
+                        <img src="images/evernote.png">
                     </div>
                     <div class="col-sm-1">
-                        <img src="img/facebook.png">
+                        <img src="images/facebook.png">
                     </div>
                     <div class="col-sm-1">
-                        <img src="img/onedrive.png">
+                        <img src="images/onedrive.png">
                     </div>
                     <div class="col-md-3">
                         <h2 class="text-center">We Know You Love</h2>
@@ -79,22 +79,22 @@
                         <h4>Powerful file handling</h4>
                     </div>
                     <div class="col-sm-2 text-center">
-                        <img src="img/basic_elaboration_smartphone_cloud.png">
+                        <img src="images/basic_elaboration_smartphone_cloud.png">
                         <br>
                         <h4>Works from anywhere</h4>
                     </div>
                     <div class="col-sm-2 text-center">
-                        <img src="img/basic_elaboration_cloud_download.png">
+                        <img src="images/basic_elaboration_cloud_download.png">
                         <br>
                         <h4>File processing in a blink</h4>
                     </div>
                     <div class="col-sm-2 text-center">
-                        <img src="img/basic_elaboration_tablet_picture.png">
+                        <img src="images/basic_elaboration_tablet_picture.png">
                         <br>
                         <h4>Present and preview</h4>
                     </div>
                     <div class="col-sm-2 text-center">
-                        <img src="img/basic_elaboration_cloud_download.png">
+                        <img src="images/basic_elaboration_cloud_download.png">
                         <br>
                         <h4>Implement in seconds</h4>
                     </div>
@@ -158,7 +158,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-3 ">
-                        <img id="logo" src="img/branding_footer.png">
+                        <img id="logo" src="images/branding_footer.png">
                     </div>
                 
                     <div class="col-md-3 col-md-offset-3">
