@@ -47,6 +47,9 @@ Route::get('/parks', 'HomeController@showParks');
 //Bloguettes
 Route::get('/bloguettes', 'HomeController@showBlog');
 
+//Filepicker
+Route::get('/filepickers', 'HomeController@showFilepicker');
+
 //Posts Resource
 Route::resource('posts', 'PostsController');
 
