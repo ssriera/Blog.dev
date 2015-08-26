@@ -74,7 +74,7 @@
                 <br>
                 <div class="row">
                     <div class="col-sm-2 col-md-offset-1 text-center">
-                        <img src="img/basic_elaboration_briefcase_check.png">
+                        <img src="images/basic_elaboration_briefcase_check.png">
                         <br>
                         <h4>Powerful file handling</h4>
                     </div>
