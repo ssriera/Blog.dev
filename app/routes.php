@@ -52,7 +52,7 @@ Route::get('/filepickers', 'HomeController@showFilepicker');
 Route::resource('posts', 'PostsController');
 
 //Sagehero
-Route::get('/sagehero', 'HomeController@showSagehero');
+Route::get('/sageheros', 'HomeController@showSagehero');
 
 
 
