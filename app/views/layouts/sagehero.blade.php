@@ -141,7 +141,7 @@
               <h1 class= "title">Check out our happy clients</h1>
               <br>
               <br>
-              <img src="imgs/logo-rackspace.png" alt="rackspace">
+              <img src="images/logo-rackspace.png" alt="rackspace">
               <img src="" alt="">
           </div><!-- /.row -->
         </div><!-- /.container -->
@@ -186,14 +186,14 @@
           </div>
           <div class="row">
             <div class="col-md-2">
-              <img src="imgs/samy.jpg" alt="samy" class="about-image image-samy">
+              <img src="images/samy.jpg" alt="samy" class="about-image image-samy">
               <h3 class="text-center title">Samy Fodil</h3>
             </div>
             <div class="col-md-4">
                 <h3>My passion for IT &amp; computers led me to get both an Engineering degree and a Master's Degree in Computer Research systems. I'm also pre-qualified for a PHD. Through the years I have picked up numerous Linux and other IT certifications.  In 2010, I founded a startup named INODE, which won the “coup de coeur" Algerian startup award in 2012. I've been deploying and training people on opensource Technologies for over a decade and that led to the birth of Sage Hero.</h3>
             </div><!-- /col 5 -->
             <div class="col-md-2">
-              <img src="imgs/erik.jpg" alt="erik" class="about-image image-erik">
+              <img src="images/erik.jpg" alt="erik" class="about-image image-erik">
               <h3 class="text-center title">Erik Larson</h3>
             </div>
             <div class="col-md-4">
@@ -222,15 +222,15 @@
           </nav>
           <br>
           <div class="row text-center">
-            <a href="http://www.facebook.com/slashsensei" title="facebook"><img src="imgs/facebook.png" alt="facebook"></a>
-            <a href="http://www.twitter.com/slashsensei" title="facebook"><img src="imgs/twitter.png" alt="facebook"></a>
+            <a href="http://www.facebook.com/slashsensei" title="facebook"><img src="images/facebook.png" alt="facebook"></a>
+            <a href="http://www.twitter.com/slashsensei" title="facebook"><img src="images/twitter.png" alt="facebook"></a>
           </div>
         </div>
         <!-- logos -->
         <div class="col-md-4 text-center">
-          <img src="imgs/rackspace_logo.png" alt="rackspace">
+          <img src="images/rackspace_logo.png" alt="rackspace">
           <br>
-            <h5>Backed by &nbsp;<img src="imgs/ts_cloud.png" alt="techstars"></h5>
+            <h5>Backed by &nbsp;<img src="images/ts_cloud.png" alt="techstars"></h5>
         </div>
         <!-- contact -->
         <div class="col-md-3 col-md-offset-1">
