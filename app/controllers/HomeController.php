@@ -52,12 +52,13 @@ class HomeController extends BaseController {
 		return View::make('parks');
 	}
 
-	public function showBlog() {
-		return View::make('bloguettes');
-	}
 
 	public function showFilepicker() {
 		return View::make('filepickers');
+	}
+
+	public function showSagehero() {
+		return View::make('sagehero');
 	}
 
 	public function doLogin() {
