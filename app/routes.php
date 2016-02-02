@@ -44,6 +44,8 @@ Route::get('/parks', 'HomeController@showParks');
 //HomespunBlog
 // Route::get('/blog', 'HomeController@showBlog');
 
+//Bloguettes
+Route::get('/bloguettes', 'HomeController@showBlog');
 
 //Filepicker
 Route::get('/filepickers', 'HomeController@showFilepicker');
